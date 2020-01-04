@@ -1,0 +1,29 @@
+{
+  "accessory": "Light Symphony",
+  "areas": [
+    {
+      "number": 0,
+      "name": "Whole Garden",
+      "type": "Lightbulb",
+      "dimmable": false
+    },
+    {
+      "number": 1,
+      "name": "Area 1",
+      "type": "Lightbulb",
+      "dimmable": false
+    },
+    {
+      "number": 2,
+      "name": "Area 2",
+      "type": "Lightbulb",
+      "dimmable": true
+    },
+    {
+      "number": 3,
+      "name": "Area 3",
+      "type": "Switch",
+      "dimmable": false
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "homebridge-light-symphony",
+  "version": "1.0.1",
+  "description": "Light Symphony plugin for homebridge",
+  "author": {
+    "name": "Ted Sales"
+  },
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Tedworthy/homebridge-light-symphony.git"
+  },
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "dependencies": {}
+}
