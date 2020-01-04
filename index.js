@@ -1,4 +1,4 @@
-var LightSymphonyiPort = require('./LightSymphonyiPort').LightSymphonyiPort;
+var LightSymphonyiPort = require('./lib/LightSymphonyiPort').LightSymphonyiPort;
 var Service, Characteristic;
 
 module.exports = function(homebridge) {
