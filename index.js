@@ -13,7 +13,11 @@ function LightSymphonyAccessory(log, config) {
 
   this._serialNumber = config.serialNumber;
 
-  this._lightSymphonyiPort = new LightSymphonyiPort(log, config.ipAddress);
+  this._lightSymphonyiPort = new LightSymphonyiPort(
+    log,
+    config.ipAddress,
+    config.broadcastAddress
+  );
 
   this._areas = {};
   this._areaServices = [];

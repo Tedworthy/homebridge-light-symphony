@@ -1,6 +1,6 @@
 {
   "name": "homebridge-light-symphony",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Light Symphony plugin for homebridge",
   "author": {
     "name": "Ted Sales"
